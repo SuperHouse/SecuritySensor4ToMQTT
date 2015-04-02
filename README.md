@@ -19,11 +19,11 @@ See more at http://www.superhouse.tv/
 ## Installation
 
 1. Change directory to Arduino's main directory
-2. mkdir SecuritySensor4MQTT
-3. cd SecuritySensor4MQTT
-4. git clone https://github.com/superhouse/SecuritySensor4MQTT.git .
+2. mkdir SecuritySensor4ToMQTT
+3. cd SecuritySensor4ToMQTT
+4. git clone https://github.com/superhouse/SecuritySensor4ToMQTT.git .
 5. Start Arduino IDE.
-6. Go to File--->Sketchbook--->SecuritySensor4MQTT
+6. Go to File--->Sketchbook--->SecuritySensor4ToMQTT
 
 ## License
     Copyright (C) 2015 SuperHouse Automation Pty Ltd
